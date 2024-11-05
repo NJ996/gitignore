@@ -5,4 +5,4 @@ new-file.txt
 /bin
 
 # ignore files having following extension
-.tmp
+*.tmp
