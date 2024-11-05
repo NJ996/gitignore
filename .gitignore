@@ -1,0 +1,8 @@
+# ignore file starting with following names
+new-file.txt
+
+# ignore files that will be created inside this directory
+/bin
+
+# ignore files having following extension
+.tmp
