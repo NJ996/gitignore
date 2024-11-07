@@ -1,5 +1,5 @@
 # ignore file starting with following names
-another-file.txt
+new-file.txt
 
 # ignore files that will be created inside this directory
 /bin
